@@ -1,0 +1,32 @@
+Barcode      Composer        Title                     Conductor                Orchestra                 Year
+028941025326 Rimsky-Korsakov Scheherazade;             Charles Dutoit;          Symphonique de Montreal;  1984
+028941355324 Mozart          Requiem;                  Karl Bohm;               Wiener Philharmoniker;    1971
+028941560124 Schubert        Symphony No.3/8;          Carlos Kleiber;          Wiener Philharmoniker;    1979
+028941597328 Mendelssohn     Symphony No.3;            Claudio Abbado;          London Symphony;          1985
+028941776426 Rachmaninov     Piano Concerto No.3;      Andre Previn;            London Symphony;          1972
+028942314122 Brahms          Symphony No.1;            Herbert Von Karajan;     Berliner Philharmoniker;  1987
+028942371729 Paganini        Violin Konzert No.6;      Charles Dutoit;          London Philharmonic;      1974
+028942503229 Bruckner        Symphony No.3;            Karl Bohm;               Wiener Philharmoniker;    1971
+028942506725 Shostakovich    Symphony No.6/12;         Bernard Haitink;         Concertgebouw;            1983
+028943044721 Holst           The Planets;              Sir Georg Solti;         London Philharmonic;      1977
+028943072823 Dvorak          Symphony No.7/8;          Christoph von Dohnanyi;  The Cleveland;            1986
+028943181525 Wieniawski      Violin Concertos No.1/2;  Lawrence Foster;         London Symphony;          1991
+028943381123 Mendelssohn     Symphony No.3;            Herbert Blomstedt;       San Francisco Symphony;   1993
+028943389422 Beethoven       Piano Concerto No.4/5;    Hans Schmidt-Isserstedt; Wiener Philharmoniker;    1959
+028943635929 Liszt           Faust Symphony;           Riccardo Chailly;        Royal Concertgebouw;      1993
+028943754026 Sibelius        Violin Concertos;         Giuseppe Sinopoli;       Philharmonia;             1993
+028943900126 Beethoven       Symphony No.1/2;          Herbert Von Karajan;     Berliner Philharmoniker;  1985
+028943995023 Orff            Carmina Burana;           Andre Previn;            Wiener Philharmoniker;    1994
+028944551129 Elgar           Cello Concerto;           Giuseppe Sinopoli;       Philharmonia;             1990
+028944582529 Bartok          Divertimento;             Pierre Boulez;           Chicago Symphony;         1995
+028944705720 Ravel           Daphnis et Chloe;         Pierre Boulez;           Berliner Philharmoniker;  1995
+077775406122 Tchaikovsky     Symphony No.6 Pathetique; Riccardo Muti;           Philadelphia;             1990
+077775457728 Prokofiev       Symphony No.5;            Simon Rattle;            City of Birmingham;       1993
+077776451121 Elgar           Symphony No.1;            Sir John Barbirolli;     Philharmonia;             1963
+081757753722 Mahler          Symphony No.1;            Eliahu Inbal;            Frankfurt Radio Symphony; 1989
+090266057528 Sibelius        Symphony No.7;            Jukka-Pekka Saraste;     Finnish Radio Symphony;   1992
+090317734026 Liszt           Dante Symphony;           Daniel Barenboim;        Berliner Philharmoniker;  1994
+099704492223 Chopin          Piano Concertos No.1/2;   Zubin Mehta;             Israel Philharmonic;      1989
+099704761527 Shostakovich    Symphony No.5/9;          Leonard Bernstein;       New York Philharmonic;    1959
+099974737222 Berlioz         Symphonie Fantastique;    Charles Munch;           Orchestre de Paris;       1967
+
